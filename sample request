@@ -1,0 +1,7 @@
+POST https://api.sounddate.com/profile/sound
+
+Bearer: {access token}
+Content-Type: audio/mpeg
+Accept: application/JSON
+
+{sound file}
